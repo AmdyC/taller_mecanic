@@ -1,0 +1,14 @@
+# Python entorno virtual para Taller Mecanico
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
